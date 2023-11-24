@@ -6,6 +6,17 @@
 
 I'm Nauman, and I'm pursuing a B.Tech in Engineering (2020-2024) from [IAR University](https://www.iar.ac.in).Currently my focus is on DSA, which is part of my up skillment in competitive programming. I've worked at ISRO and scaled communities at [Google Developers](https://developers.google.com/profile/u/naumanmirza24). I'm passionate about learning new things and especially when it comes to technology. I've a positive attitude towards life and handle every situation with patience. I'm a keen learner and a smart problem solver using my developed skills and also follow a positive approach to complete my work.
 
+- 🔭 I’m currently Working on Open Source Projets**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms and Devops**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Naumaan777?tab=repositories)**
+
+- 📫 How to reach me **naumaanmirza777@gmail.com**
+
+- ⚡ Fun fact **I play football.**
 <table>
   <tr>
       <td><a href="https://github.com/Naumaan777"><img src="https://img.shields.io/github/followers/IdealisticINTJ.svg?label=GitHub&style=social" alt="GitHub"></a></td>
@@ -94,19 +105,19 @@ I am actively seeking opportunities in:
     <td>
       <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
       <img src="https://img.shields.io/badge/Hibernate-grey.svg?&style=flat-square&logo=hibernate&logoColor=light-green" />
-      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
-      <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" />
+<!--       <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" /> -->
+<!--       <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" /> -->
     </td>
   </tr>
   <tr>
     <th>Databases</th>
     <td>
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
       <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <!--       <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" /> -->
-<!--       <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" /> -->
     </td>
   </tr>
   <tr>
@@ -180,7 +191,7 @@ I am actively seeking opportunities in:
 ## Social
 
 1. [LeetCode](https://leetcode.com/Nauman_Mirza777/)
-2. [Portfolio](https://Nauman-mirza-portfolio.app)
+2. [Portfolio](https://Naumaan-mirza-portfolio.app)
 3. [Kaggle](https://www.kaggle.com/naumanmirza777) 
 4. [Substack](https://substack.com/@mrn36?utm_source=user-menu)
 5. [Polywork](https://www.polywork.com/nauman_mirza)
