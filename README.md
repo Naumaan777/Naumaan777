@@ -79,20 +79,22 @@ I am actively seeking opportunities in:
  <tr>
     <th>Programming Languages</th>
     <td> 
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
       <img src="https://img.shields.io/badge/-javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/-php-474A8A?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/-C-00599c?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
-      <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
-      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
       <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />
+<!--       <img src="https://img.shields.io/badge/-C-00599c?style=flat-square&logo=c%2B%2B&logoColor=Crayola" /> -->
+<!--       <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" /> -->
+<!--       <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logoColor=white&style=for-the-badge" /> -->
    </td>
   </tr>
   <tr>
     <th>Frameworks</th>
     <td>
-      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
+      <img src="https://img.shields.io/badge/Hibernate-grey.svg?&style=flat-square&logo=hibernate&logoColor=light-green" />
+      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" />
     </td>
@@ -100,11 +102,11 @@ I am actively seeking opportunities in:
   <tr>
     <th>Databases</th>
     <td>
-      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
       <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<!--       <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" /> -->
+<!--       <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" /> -->
     </td>
   </tr>
   <tr>
