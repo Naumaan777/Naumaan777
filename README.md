@@ -4,7 +4,7 @@
 
 ## About
 
-I'm Nauman, and I'm pursuing a B.Tech in Engineering (2020-2024) from [IAR University](https://www.iar.ac.in).Currently my focus is on DSA, which is part of my up skillment in competitive programming. I've worked at ISRO and scaled communities at [Google Developers](https://developers.google.com/profile/u/naumanmirza24). I'm passionate about learning new things and especially when it comes to technology. I've a positive attitude towards life and handle every situation with patience. I'm a keen learner and a smart problem solver using my developed skills and also follow a positive approach to complete my work.
+I'm Nauman. I'm pursuing a B.Tech in Engineering from [IAR University](https://www.iar.ac.in) (2020-2024). My focus is on DSA & Devops, which is part of my up skillment in competitive programming. I've worked at ISRO and scaled communities at [Google Developers](https://developers.google.com/profile/u/naumanmirza24). I'm passionate about learning new things and especially when it comes to technology. I've a positive attitude towards life and handle every situation with patience. I'm a keen learner and a smart problem solver using my developed skills and also follow a positive approach to complete my work.
 
 - 🔭 I’m currently Working on Open Source Projets**
 
