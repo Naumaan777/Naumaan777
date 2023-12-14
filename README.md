@@ -1,6 +1,6 @@
 
-![banner](https://github.com/Naumaan777/git-github123/blob/main/my_logo.jpg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Welcome+to+profile+of+Nauman_Mirza)](https://git.io/typing-svg)
+![banner](https://github.com/Naumaan777/git-github123/blob/main/logo.jpeg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Welcome+to+profile+of+Naumaan_Mirza)](https://git.io/typing-svg)
 
 ## About
 
