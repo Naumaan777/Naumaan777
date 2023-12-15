@@ -12,7 +12,7 @@ I'm Nauman. I'm pursuing a B.Tech Engineering from [IAR University](https://www.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Naumaan777?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://naumaan-portfolio.netlify.app/)**
 
 - 📫 To reach me, mail at **naumaanmirza777@gmail.com**
 
