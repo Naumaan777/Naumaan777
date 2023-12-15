@@ -14,7 +14,7 @@ I'm Nauman. I'm pursuing a B.Tech Engineering from [IAR University](https://www.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Naumaan777?tab=repositories)**
 
-- 📫 How to reach me **naumaanmirza777@gmail.com**
+- 📫 To reach me, mail at **naumaanmirza777@gmail.com**
 
 - ⚡ Fun fact **I play football.**
 <table>
