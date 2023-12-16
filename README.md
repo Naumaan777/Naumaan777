@@ -56,7 +56,7 @@ I'm Nauman. I'm pursuing a B.Tech Engineering from [IAR University](https://www.
 
 ## Seeking Opportunities
 
-[![CV Badge](https://img.shields.io/badge/CV-Curriculum%20Vitae-%230759EA)](https://drive.google.com/file/d/1h3b4LuxgxdZYgD5sdzxNBnUuMLOufS3U/view?usp=drivesdk)
+[![CV Badge](https://img.shields.io/badge/CV-Curriculum%20Vitae-%230759EA)](https://drive.google.com/file/d/1u3XrNC5FDPIxJDjt7t0gJzs6uWnVo-JO/view)
 
 I am actively seeking opportunities in:
 * SDE full-time roles.
