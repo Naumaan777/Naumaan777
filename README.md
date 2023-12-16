@@ -17,7 +17,7 @@ I'm Nauman. I'm pursuing a B.Tech Engineering from [IAR University](https://www.
 
 - 📫 To reach me, mail at **naumaanmirza777@gmail.com**
 
-- ⚡ **I play football.**
+- ⚡ **I play football**
 <table>
   <tr>
       <td><a href="https://github.com/Naumaan777"><img src="https://img.shields.io/github/followers/IdealisticINTJ.svg?label=GitHub&style=social" alt="GitHub"></a></td>
