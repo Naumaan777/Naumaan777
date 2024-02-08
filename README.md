@@ -211,7 +211,7 @@ I am actively seeking opportunities in:
 <a href="https://github.com/Naumaan777/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Naumaan777">
 </a>
-<a href="https://github.com/Naumaan777?tab=followers"><img src="https://img.shields.io/github/followers/Naumaan777?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- <a href="https://github.com/Naumaan777?tab=followers"><img src="https://img.shields.io/github/followers/Naumaan777?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
 
